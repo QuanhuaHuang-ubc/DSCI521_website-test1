@@ -3,3 +3,8 @@ title: "About"
 ---
 
 About this site
+
+My name is Quanhua Huang and I am a master of Data Science student in UBC.
+My favourite pets is Shiba Inu and my favourite restaurant is Golden Chopstics
+
+I am glad to be here and ready to make new friends!
